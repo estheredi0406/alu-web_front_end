@@ -127,6 +127,21 @@ a:active {
   color: var(--color-primary);
 }
 
+.card-services .card-title {
+  margin: 0;
+}
+
+.card-services a {
+  display: block;
+  padding: 2rem;
+  background-color: var(--color-light-grey);
+}
+
+.card-services a:hover {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+}
+
 .section {
   padding: var(--section-padding);
 }
