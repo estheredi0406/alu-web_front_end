@@ -1,0 +1,15 @@
+$custom-color: #3d3d3d;
+$custom-background-color: #6d6d6d;
+
+body {
+  color: $custom-color;
+  background-color: $custom-background-color;
+}
+
+p {
+  color: $custom-color;
+}
+
+h1 {
+  background-color: $custom-background-color;
+}
